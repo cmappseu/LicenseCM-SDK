@@ -1,0 +1,9 @@
+{
+  "name": "licensecm-sdk",
+  "version": "1.0.0",
+  "description": "LicenseCM Node.js SDK",
+  "main": "index.js",
+  "keywords": ["license", "licensing", "drm", "software-licensing"],
+  "author": "",
+  "license": "MIT"
+}
