@@ -1,0 +1,21 @@
+{
+    "name": "licensecm/sdk",
+    "description": "PHP SDK for LicenseCM License Management System",
+    "version": "1.0.0",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LicenseCM\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4",
+        "ext-curl": "*",
+        "ext-json": "*",
+        "ext-openssl": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    }
+}
